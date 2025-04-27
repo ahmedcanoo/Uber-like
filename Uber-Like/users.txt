@@ -1,0 +1,13 @@
+edmin,admin123,admin
+ahmed,123,customer
+cano,1234,customer
+canobeh,123,customer
+you,123,customer
+alo,alo,customer
+didi,123,driver
+uber,123,driver
+demi,123,customer
+cust1,123,customer
+cust2,123,customer
+driver1,123,driver
+driver2,123,driver
